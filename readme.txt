@@ -3,4 +3,8 @@ Git is a distributed version control system
 Git is free software distributed under the GPL.
 Git remote commit！
 Http or SSH？
-New Branch & so on！
+<<<<<<< HEAD
+New Branch and so on！
+=======
+New Branch and so on！
+>>>>>>> feature1
