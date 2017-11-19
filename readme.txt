@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 Git remote commit！
 Http or SSH？
 New Branch AND so on！
+Not Fast forword.
